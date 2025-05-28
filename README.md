@@ -10,7 +10,7 @@
 
 ## Currently Learning 
 - **Computer Science** - Systems, data structures, AI, backend development and rust
-- **Langueages** - improving fluency in **French**. Basics of **Russian** and **Japanese**
+- **Languages** - improving fluency in **French**. Basics of **Russian** and **Japanese**
 
 ## Personal Goals and Fun Facts
 - Raise my **VO₂ max from 46 to 60+** with healthy diet, HIIT, hybrid Workouts and very important, proper rest.
